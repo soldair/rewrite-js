@@ -1,6 +1,6 @@
 {
-  "name": "rewrite-js",
-  "version": "1.0.5",
+  "name": "@soldair/rewrite-js",
+  "version": "1.0.6",
   "description": "CLI tool to transform javascript programs using falafel",
   "main": "index.js",
   "scripts": {
